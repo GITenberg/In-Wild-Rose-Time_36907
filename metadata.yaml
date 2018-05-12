@@ -1,0 +1,39 @@
+_repo: In-Wild-Rose-Time_36907
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Goss, John
+    birthdate: 1886
+    deathdate: 1963
+    gutenberg_agent_id: '7136'
+    url: http://www.gutenberg.org/2009/agents/7136
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Douglas, Amanda M.
+    alias: Douglas, Amanda Minnie
+    birthdate: 1831
+    deathdate: 1916
+    gutenberg_agent_id: '9482'
+    url: http://www.gutenberg.org/2009/agents/9482
+description: ''
+gutenberg_issued: '2011-07-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36907'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Children''s stories'
+- !lcsh 'Poor -- Juvenile fiction'
+- !lcsh 'Families -- Juvenile fiction'
+- !lcsh 'Slums -- Juvenile fiction'
+- !lcsh 'Working class -- Juvenile fiction'
+- !lcsh 'New York (N.Y.) -- Juvenile fiction'
+title: In Wild Rose Time
+url: http://www.gutenberg.org/ebooks/36907
